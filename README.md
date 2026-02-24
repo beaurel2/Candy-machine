@@ -1,7 +1,7 @@
 # Candy Dispenser/Machine STM32
 
 ![](<servo_and_sensor.png>)
-![](Nucleo F446RE.jpeg)
+![](<Nucleo F446RE.jpeg>)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
