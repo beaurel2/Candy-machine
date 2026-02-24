@@ -1,0 +1,101 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="Execute" line="0" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="0x8001edc" stopAll="false" group="Breakpoints" type="Breakpoint" state="3" filename="../Lib_bml" useHWbreakpoint="false"/>
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBuffer>
+  <FrameBufferWindow width="-83887103" keepAspectRatio="0" zoomToFitWindow="0" showGrid="0" addressSpace="" format="0" height="553648386" autoEvaluate="0" scaleFactor="1" refreshPeriod="0" name="add1_10_Debug" addressText="" accessByDisplayWidth="0"/>
+  <FrameBufferWindow width="-83887103" keepAspectRatio="0" zoomToFitWindow="0" showGrid="0" addressSpace="" format="0" height="553648386" autoEvaluate="0" scaleFactor="1" refreshPeriod="0" name="Projekt1_Debug" addressText="" accessByDisplayWidth="0"/>
+ </FrameBuffer>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="add1_10_Debug" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="4" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="Projekt1_Debug" sizeText="" addressText="0xE000ED38"/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="add1_10_Debug" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="Projekt1_Debug" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="add1_10_Debug" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="Projekt1_Debug" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="add1_10_Debug" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="Projekt1_Debug" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="MCT"/>
+  <ProjectSessionItem path="MCT;Projekt1"/>
+  <ProjectSessionItem path="MCT;Projekt1;Lib"/>
+  <ProjectSessionItem path="MCT;Projekt1;Scripts"/>
+  <ProjectSessionItem path="MCT;Projekt1;Source"/>
+ </Project>
+ <Register1>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="add1_10_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow invisibleNodes="" visibleNodes="TIM3/CR1;TIM3/CR2;TIM3/SMCR;TIM3/DIER;TIM3/SR;TIM3/EGR;TIM3/CCMR1_Output;TIM3/CCMR1_Input;TIM3/CCMR2_Output;TIM3/CCMR2_Input;TIM3/CCER;TIM3/CNT;TIM3/PSC;TIM3/ARR;TIM3/CCR1;TIM3/CCR2;TIM3/CCR3;TIM3/CCR4;TIM3/DCR;TIM3/DMAR;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal;CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr" binaryNodes="" asciiNodes="" openNodes="TIM3;CPU;CPU - Current Context" name="Projekt1_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="add1_10_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Projekt1_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="add1_10_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Projekt1_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="add1_10_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Projekt1_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never">
+   <Watchpoint expression="0xE000ED28" name="0xE000ED28" radix="-1" linenumber="0" filename="../Lib_bml"/>
+   <Watchpoint expression="a" name="a" radix="-1" linenumber="0" filename="../Lib_bml"/>
+   <Watchpoint expression="value" name="value" radix="10" linenumber="0" filename="../Lib_bml"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="72" useTextEdit="1" path="Source/init.s" left="0" top="70" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="89" useTextEdit="1" path="Source/main.c" left="0" selected="1" top="102" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="26" y="46" useTextEdit="1" path="sensor.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="26" y="5" useTextEdit="1" path="servo.h" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="24" useTextEdit="1" path="rgb_led.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="31" y="16" useTextEdit="1" path="rgb_led.h" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="9" useTextEdit="1" path="button.h" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="17" useTextEdit="1" path="button.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="13" y="341" useTextEdit="1" path="Lib/bml_timer3.h" left="0" top="322" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="44" y="165" useTextEdit="1" path="Lib/bml_timer3.c" left="0" top="144" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="23" y="181" useTextEdit="1" path="Lib/bml_gpio.h" left="0" top="160" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="66" y="57" useTextEdit="1" path="Lib/bml_gpio.c" left="0" top="41" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="64" useTextEdit="1" path="Lib/bml_systick.c" left="0" top="25" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="38" useTextEdit="1" path="Lib/bml_uart2.c" left="0" top="32" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="Scripts/STM32F4xx_Target.js" left="0" top="19" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="35" y="19" useTextEdit="1" path="Lib/bml_rcc.h" left="0" top="1" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="4" y="3" useTextEdit="1" path="Lib/bml_rcc.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="Lib/bml_uart2.h" left="0" top="62" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="45" y="272" useTextEdit="1" path="C:/Program Files/SEGGER/SEGGER Embedded Studio 8.22a/include/stdint.h" left="0" top="257" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="33" useTextEdit="1" path="bml_adc.c" left="0" top="33" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="15" y="239" useTextEdit="1" path="bml_adc.h" left="0" top="221" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" path="Output/Debug/Exe/Projekt1.elf" left="0" top="676" codecName=""/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="23" y="7" useTextEdit="1" path="sensor.h" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="26" y="5" useTextEdit="1" path="servo.c" left="0" top="0" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="Projekt1" fileDialogDefaultFilter="*.asm;*.s;*.inc" autoConnectTarget="ST-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="C:/Users/munirdylan/Documents/SEGGER Embedded Studio Projects/bonbon/rgb_led.c&#xa;&#xa;C:/Users/munirdylan/Documents/SEGGER Embedded Studio Projects/bonbon/sensor.c&#xa;C:/Users/beaur/Desktop/B.Eng Technische Informatik/SEMESTER 4 TI/Embedded System 1/Praktikum/Lib_bml/Lib/ringbuffer.c&#xa;C:/Users/munirdylan/Documents/SEGGER Embedded Studio Projects/bonbon/servo.c&#xa;&#xa;C:/Users/munirdylan/Documents/SEGGER Embedded Studio Projects/bonbon/Source/init.s&#xa;" fileDialogInitialDirectory="C:/Users/beaur/Desktop/B.Eng Technische Informatik/SEMESTER 4 TI/Embedded System 1/Praktikum/Lib_bml/Lib" debugSearchPath="" autoConnectCapabilities="3455"/>
+</session>
