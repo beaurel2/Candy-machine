@@ -11,6 +11,11 @@ The dispenser releases candies when a coin is inserted or the button is pressed 
 
 ---
 
+## 🔹 Requirement
+- Use C programming
+- Use Embedded Studio or Vs Code
+- Use Microcontroller
+
 ## 🔹 Function of the Dispenser
 
 - The storage container holds chewing candies.
