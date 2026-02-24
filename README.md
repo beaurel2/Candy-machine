@@ -78,4 +78,4 @@ The dispenser releases candies when a coin is inserted or the button is pressed 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/candy-dispenser.git
+git clone https://github.com/beaurel2/Candy-machine.git
