@@ -1,20 +1,32 @@
 # Candy Dispenser/Machine STM32
 
-![](<servo_and_sensor.png>)
-![](<Nucleo F446RE.jpeg>)
+## Requirement
+- Use C programming
+- Use Embedded Studio or Vs Code
+- Use Microcontroller
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-
+---
 
 A small candy dispenser controlled by an STM32 microcontroller (Nucleo-Board F446RE).  
 The dispenser releases candies when a coin is inserted or the button is pressed and shows the stock level with an RGB LED.
 
 ---
 
-## Requirement
-- Use C programming
-- Use Embedded Studio or Vs Code
-- Use Microcontroller
+## Components and tools
+The following hardware and software components are mainly used in the lab.
+- **Boards:**
+   - [development boards](https://www.conrad.de/de/p/stmicroelectronics-nucleo-f446re-entwicklungsboard-nucleo-f446re-stm32-f4-series-1416934.html) NUCLEO-F446RE STM32 F4 Series: [Manuel](https://www.st.com/resource/en/data_brief/nucleo-c031c6.pdf), [schematic](https://www.snapeda.com/parts/NUCLEO-F446RE/STMicroelectronics/view-part/?ref=mouser)
+
+---
+
+## Installation(s)
+Embedded Studio
+- [Development environment of the company Segger including simulator](https://www.segger.com/products/development-tools/embedded-studio/)
+WARNING: When installing, make sure that the J-Link device drivers or USB drivers are also installed.
+**If you have not done this, the program download to the Nucleo board will not work. In that case, you must install the drivers manually.**
+  1. Download the necessary drivers: [download](https://www.segger.com/downloads/jlink)
+  2. Install the package
+  3. Start ...SEGGERJlink...USBDriverInstDrivers.exe
 
 ---
 
@@ -78,10 +90,3 @@ The dispenser releases candies when a coin is inserted or the button is pressed 
 | Stock sufficient        | Green |
 | Stock low               | Red   |
 | Servo in motion         | Blue  |
-
----
-
-## Components and tools
-The following hardware and software components are mainly used in the lab.
-- **Boards:**
-   - [development boards](https://www.conrad.de/de/p/stmicroelectronics-nucleo-f446re-entwicklungsboard-nucleo-f446re-stm32-f4-series-1416934.html) NUCLEO-F446RE STM32 F4 Series: [Manuel](https://www.st.com/resource/en/data_brief/nucleo-c031c6.pdf), [schematic](https://www.snapeda.com/parts/NUCLEO-F446RE/STMicroelectronics/view-part/?ref=mouser)
