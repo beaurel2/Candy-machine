@@ -7,11 +7,6 @@
 
 ---
 
-A small candy dispenser controlled by an STM32 microcontroller (Nucleo-Board F446RE).  
-The dispenser releases candies when a coin is inserted or the button is pressed and shows the stock level with an RGB LED.
-
----
-
 ## Components and tools
 The following hardware and software components are mainly used in the lab.
 - **Boards:**
