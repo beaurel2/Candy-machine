@@ -11,14 +11,14 @@ The dispenser releases candies when a coin is inserted or the button is pressed 
 
 ---
 
-## 🔹 Requirement
+## Requirement
 - Use C programming
 - Use Embedded Studio or Vs Code
 - Use Microcontroller
 
 ---
 
-## 🔹 Function of the Dispenser
+## Function of the Dispenser
 
 - The storage container holds chewing candies.
 - After inserting a coin, it falls into a slider.
@@ -31,7 +31,7 @@ The dispenser releases candies when a coin is inserted or the button is pressed 
 
 ---
 
-## 🔹 Hardware Components
+## Hardware Components
 
 | Component           | Connection / Function                                  |
 |--------------------|--------------------------------------------------------|
@@ -42,7 +42,7 @@ The dispenser releases candies when a coin is inserted or the button is pressed 
 
 ---
 
-## 🔹 Servo Control
+## Servo Control
 
 - The servo moves within a limited range (min/max pulse width as constants).
 - Movement to the release position and back occurs **gradually**, not abruptly, to protect the mechanics.
@@ -50,7 +50,7 @@ The dispenser releases candies when a coin is inserted or the button is pressed 
 
 ---
 
-## 🔹 Stock Level Detection
+## Stock Level Detection
 
 - Sensor connected to ADC via voltage divider.
 - High ADC value → candy present  
@@ -60,7 +60,7 @@ The dispenser releases candies when a coin is inserted or the button is pressed 
 
 ---
 
-## 🔹 Process Flow
+## Process Flow
 
 1. Servo in resting position
 2. Button pressed → servo moves forward → candy released → servo returns
@@ -71,7 +71,7 @@ The dispenser releases candies when a coin is inserted or the button is pressed 
 
 ---
 
-## 🔹 RGB LED Indication
+## RGB LED Indication
 
 | Status                  | Color |
 |-------------------------|-------|
@@ -81,8 +81,7 @@ The dispenser releases candies when a coin is inserted or the button is pressed 
 
 ---
 
-## 🔹 Installation / Usage
-
-1. Clone the repository:
-```bash
-git clone https://github.com/beaurel2/Candy-machine.git
+## Components and tools
+The following hardware and software components are mainly used in the lab.
+- **Boards:**
+   - [STMicroelectronics NUCLEO-F446RE development board NUCLEO-F446RE STM32 F4 Series](https://www.conrad.de/de/p/stmicroelectronics-nucleo-f446re-entwicklungsboard-nucleo-f446re-stm32-f4-series-1416934.html)
