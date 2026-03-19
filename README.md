@@ -84,4 +84,4 @@ The dispenser releases candies when a coin is inserted or the button is pressed 
 ## Components and tools
 The following hardware and software components are mainly used in the lab.
 - **Boards:**
-   - [development boards](https://www.conrad.de/de/p/stmicroelectronics-nucleo-f446re-entwicklungsboard-nucleo-f446re-stm32-f4-series-1416934.html) NUCLEO-F446RE STM32 F4 Series: [Manuel](https://www.st.com/resource/en/data_brief/nucleo-c031c6.pdf) [schematic](https://www.snapeda.com/parts/NUCLEO-F446RE/STMicroelectronics/view-part/?ref=mouser)
+   - [development boards](https://www.conrad.de/de/p/stmicroelectronics-nucleo-f446re-entwicklungsboard-nucleo-f446re-stm32-f4-series-1416934.html) NUCLEO-F446RE STM32 F4 Series: [Manuel](https://www.st.com/resource/en/data_brief/nucleo-c031c6.pdf), [schematic](https://www.snapeda.com/parts/NUCLEO-F446RE/STMicroelectronics/view-part/?ref=mouser)
