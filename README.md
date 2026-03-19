@@ -16,6 +16,9 @@ The dispenser releases candies when a coin is inserted or the button is pressed 
 The following hardware and software components are mainly used in the lab.
 - **Boards:**
    - [development boards](https://www.conrad.de/de/p/stmicroelectronics-nucleo-f446re-entwicklungsboard-nucleo-f446re-stm32-f4-series-1416934.html) NUCLEO-F446RE STM32 F4 Series: [Manuel](https://www.st.com/resource/en/data_brief/nucleo-c031c6.pdf), [schematic](https://www.snapeda.com/parts/NUCLEO-F446RE/STMicroelectronics/view-part/?ref=mouser)
+- **Servo**
+  -[Servo motor](https://www.amazon.com/DIYables-Degree-Arduino-ESP8266-Raspberry/dp/B0BPFXTZ73/ref=asc_df_B0BPFXTZ73?tag=bingshoppinga-20&linkCode=df0&hvadid=80333258194147&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=91544&hvtargid=pla-4583932723000478&msclkid=87ca843323571fb316afed887e990500&th=1) Servo Motor SG90 180 Degree for Arduino, ESP32, ESP8266, Raspberry Pi, [Makerguides](https://www.makerguides.com/de/servo-arduino-tutorial-de/)
+- **Level sensor** [sensor](https://www.ifm.com/us/en)
 
 ---
 
@@ -101,3 +104,6 @@ The following hardware and software components are mainly used in the lab.
 | Stock sufficient        | Green |
 | Stock low               | Red   |
 | Servo in motion         | Blue  |
+---
+<img width="413" height="571" alt="image" src="https://github.com/user-attachments/assets/5574733c-d429-4b32-a605-e4e75f07433d" />
+
