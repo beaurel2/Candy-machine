@@ -20,8 +20,7 @@ The following hardware and software components are mainly used in the lab.
 ---
 
 ## Installation(s)
-Embedded Studio
-- [Development environment of the company Segger including simulator](https://www.segger.com/products/development-tools/embedded-studio/)
+- Embedded Studio Development environment of the company Segger including simulator [download](https://www.segger.com/products/development-tools/embedded-studio/)
 
   > ⚠️ **WARNING:**  
   > When installing, make sure that the J-Link device drivers or USB drivers are also installed.
