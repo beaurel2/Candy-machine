@@ -44,19 +44,6 @@ The following hardware and software components are mainly used in the lab.
 
 ---
 
-## Function of the Dispenser
-
-- The storage container holds chewing candies.
-- After inserting a coin, it falls into a slider.
-- A servo moves the slider forward, releasing a candy.
-- The coin is directed to the collection tray.
-- If no coin is in the slider, no candy is released.
-
-- A light-dependent resistor (LDR) in the storage area detects the stock level.  
-  If the stock is low, it can be detected by reading the ADC value.
-
----
-
 ## Hardware Components
 
 | Component           | Connection / Function                                  |
@@ -105,5 +92,11 @@ The following hardware and software components are mainly used in the lab.
 | Stock low               | Red   |
 | Servo in motion         | Blue  |
 ---
+
+## Function of the Dispenser
+The storage container contains chewy candies. After inserting a coin, it falls into a slider that is moved forward by a servo motor. A chewy candy is dispensed in the process, and the coin is directed into a collection container. If there is no coin in the slider, no dispensing occurs.
+
+A light-sensitive resistor in the storage area allows the detection of the fill level. If the fill level decreases, this can be detected by evaluating the ADC value.
+
 <img width="413" height="571" alt="image" src="https://github.com/user-attachments/assets/5574733c-d429-4b32-a605-e4e75f07433d" />
 
