@@ -32,6 +32,13 @@ The following hardware and software components are mainly used in the lab.
   - Install the package  
   - Start `SEGGERJlink_USBDriverInstDrivers.exe`
 
+- Configuration Embedded Studio
+  - Check project settings
+  - Target Connection: JLINK
+  - Target Device: STM32F446RET
+  <img width="947" height="910" alt="image" src="https://github.com/user-attachments/assets/9638f5ee-67fc-48a7-89eb-d42a8aa4f0fc" />
+
+
 ---
 
 ## Function of the Dispenser
