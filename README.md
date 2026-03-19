@@ -28,9 +28,9 @@ The following hardware and software components are mainly used in the lab.
 - If you have not done this, the program download to the Nucleo board will not work.  
   In that case, you must install the drivers manually:
 
-  1. Download the necessary drivers: [download](https://www.segger.com/downloads/jlink)  
-  2. Install the package  
-  3. Start `SEGGERJlink_USBDriverInstDrivers.exe`
+  i. Download the necessary drivers: [download](https://www.segger.com/downloads/jlink)  
+  ii. Install the package  
+  iii. Start `SEGGERJlink_USBDriverInstDrivers.exe`
 
 ---
 
