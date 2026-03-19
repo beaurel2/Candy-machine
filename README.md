@@ -23,7 +23,7 @@ The following hardware and software components are mainly used in the lab.
 Embedded Studio
 - [Development environment of the company Segger including simulator](https://www.segger.com/products/development-tools/embedded-studio/)
 WARNING: When installing, make sure that the J-Link device drivers or USB drivers are also installed.
-**If you have not done this, the program download to the Nucleo board will not work. In that case, you must install the drivers manually.**
+- **If you have not done this, the program download to the Nucleo board will not work. In that case, you must install the drivers manually.**
   1. Download the necessary drivers: [download](https://www.segger.com/downloads/jlink)
   2. Install the package
   3. Start ...SEGGERJlink...USBDriverInstDrivers.exe
