@@ -88,7 +88,7 @@ The following hardware and software components are mainly used in the lab.
 2. Button pressed → servo moves forward → candy released → servo returns
 3. RGB LED shows status in parallel
 
-[see demo here](https://youtube.com/shorts/66opG74vFtw?si=hGZcP8E6TixKhZwj)
+[see demo here](https://youtube.com/shorts/66opG74vFtw?si=hGZcP8E6TixKhZwj). Sorry about the image quality.
 
 ---
 
