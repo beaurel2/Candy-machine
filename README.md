@@ -83,9 +83,9 @@ The following hardware and software components are mainly used in the lab.
 
 | Status                  | Color |
 |-------------------------|-------|
-| Stock sufficient        | Green |
-| Stock low               | Red   |
-| Servo in motion         | Blue  |
+| Stock sufficient        | 🟢 |
+| Stock low               | 🔴  |
+| Servo in motion         | 🔵  |
 ---
 
 ## Function of the Dispenser
