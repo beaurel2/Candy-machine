@@ -1,5 +1,7 @@
 # Candy Dispenser/Machine STM32
 
+This project was carried out at the end of the Embedded Systems 1 course at the Technical University of Applied Sciences Augsburg (Germany).
+
 ## Requirement
 - Use C programming
 - Use Embedded Studio or Vs Code
