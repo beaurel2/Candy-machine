@@ -63,8 +63,9 @@ The following hardware and software components are mainly used in the lab.
 ## Stock Level Detection
 
 - Sensor connected to ADC via voltage divider.
-- High ADC value → candy present  
-- Low ADC value → stock low/empty
+- ADC value
+   - High (1) → candy present
+   - Low (0) → stock low/empty
 - Threshold depends on ambient light.
 - Limited number of releases when “low stock” until full again.
 
