@@ -63,7 +63,7 @@ The following hardware and software components are mainly used in the lab.
 ## Stock Level Detection
 
 - Sensor connected to ADC via voltage divider.
-- ADC value
+- ADC value:
    - High (1) → candy present
    - Low (0) → stock low/empty
 - Threshold depends on ambient light.
@@ -75,10 +75,7 @@ The following hardware and software components are mainly used in the lab.
 
 1. Servo in resting position
 2. Button pressed → servo moves forward → candy released → servo returns
-3. RGB LED shows status in parallel:
-   - **Green:** stock OK  
-   - **Red:** stock low  
-   - **Blue:** servo moving
+3. RGB LED shows status in parallel
 
 ---
 
