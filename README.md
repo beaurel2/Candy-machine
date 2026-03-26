@@ -2,6 +2,17 @@
 
 This project was carried out at the end of the Embedded Systems 1 course at the Technical University of Applied Sciences Augsburg (Germany).
 
+---
+
+## Function of the Dispenser
+The storage container contains chewy candies. After inserting a coin, it falls into a slider that is moved forward by a servo motor. A chewy candy is dispensed in the process, and the coin is directed into a collection container. If there is no coin in the slider, no dispensing occurs.
+
+A light-sensitive resistor in the storage area allows the detection of the fill level. If the fill level decreases, this can be detected by evaluating the ADC value.
+
+<img width="413" height="571" alt="image" src="https://github.com/user-attachments/assets/5574733c-d429-4b32-a605-e4e75f07433d" />
+
+---
+
 ## Requirement
 - Use C programming
 - Use Embedded Studio or Vs Code
@@ -87,11 +98,3 @@ The following hardware and software components are mainly used in the lab.
 | Stock low               | 🔴  |
 | Servo in motion         | 🔵  |
 ---
-
-## Function of the Dispenser
-The storage container contains chewy candies. After inserting a coin, it falls into a slider that is moved forward by a servo motor. A chewy candy is dispensed in the process, and the coin is directed into a collection container. If there is no coin in the slider, no dispensing occurs.
-
-A light-sensitive resistor in the storage area allows the detection of the fill level. If the fill level decreases, this can be detected by evaluating the ADC value.
-
-<img width="413" height="571" alt="image" src="https://github.com/user-attachments/assets/5574733c-d429-4b32-a605-e4e75f07433d" />
-
