@@ -46,7 +46,7 @@ The following hardware and software components are mainly used in the lab.
 | Component           | Connection / Function                                  |
 |--------------------|--------------------------------------------------------|
 | Servo              | Timer 3, Channel 0 – moves the slider                |
-| RGB LED            | Timer 3, Channels 1–3 – indicates operation and stock |
+| RGB LED🔴🟢🔵          | Timer 3, Channels 1–3 – indicates operation and stock |
 | Button             | GPIO Port C12, active-low – triggers candy release   |
 | Stock Sensor       | ADC Channel 1 – light-dependent resistor             |
 
