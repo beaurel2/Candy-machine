@@ -20,6 +20,25 @@ A light-sensitive resistor in the storage area allows the detection of the fill 
 
 ---
 
+##⚙️ System Architecture
+
+The system is structured as a modular embedded application:
+
+- Input Layer:
+  - Button (GPIO interrupt/polling)
+  - ADC (stock detection)
+
+- Control Layer:
+  - State Machine controlling system behavior
+
+- Output Layer:
+  - Servo (PWM via Timer 3)
+  - RGB LED (PWM channels)
+
+The architecture separates hardware abstraction from control logic.
+
+---
+
 ## Components and tools
 The following hardware and software components are mainly used in the lab.
 - **Boards:**
@@ -88,7 +107,11 @@ The following hardware and software components are mainly used in the lab.
 2. Button pressed → servo moves forward → candy released → servo returns
 3. RGB LED shows status in parallel
 
-[see demo here](https://youtube.com/shorts/66opG74vFtw?si=hGZcP8E6TixKhZwj). Sorry about the image quality.
+---
+
+## 🎥 Demo
+Watch the system in action:
+[YouTube Demo](https://youtube.com/shorts/66opG74vFtw?si=hGZcP8E6TixKhZwj). Sorry about the image quality.
 
 ---
 
