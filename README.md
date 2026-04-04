@@ -20,7 +20,7 @@ A light-sensitive resistor in the storage area allows the detection of the fill 
 
 ---
 
-##⚙️ System Architecture
+## System Architecture ⚙️
 
 The system is structured as a modular embedded application:
 
