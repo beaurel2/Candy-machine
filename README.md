@@ -109,12 +109,6 @@ The following hardware and software components are mainly used in the lab.
 
 ---
 
-## 🎥 Demo
-Watch the system in action:
-[YouTube Demo](https://youtube.com/shorts/66opG74vFtw?si=hGZcP8E6TixKhZwj). Sorry about the image quality.
-
----
-
 ## RGB LED Indication
 
 | Status                  | Color |
@@ -122,4 +116,9 @@ Watch the system in action:
 | Stock sufficient        | 🟢 |
 | Stock low               | 🔴  |
 | Servo in motion         | 🔵  |
+
 ---
+
+## 🎥 Demo
+Watch the system in action:
+[YouTube Demo](https://youtube.com/shorts/66opG74vFtw?si=hGZcP8E6TixKhZwj). Sorry about the image quality.
